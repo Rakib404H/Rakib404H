@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib404h&show_icons=true&locale=en&layout=compact" alt="rakib404h" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib404h&show_icons=true&locale=en" alt="rakib404h" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib404h&" alt="rakib404h" /></p>
