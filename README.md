@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <img align="right" alt="Rakib404H" width="400" src="https://lh3.googleusercontent.com/pw/AIL4fc_9GzEGQikdV1iN3bqvWglTouR6P-3WmHCOPSGFXFAP5-V-QZvqqjjd1sy6yhkH7N6HIHOXygpGk3Q0PkoSWOx-LcGE7KgW528Hn5hSVk9BUy3fLXByhTKWiHgsQ63hWcKxYj8Hob5EJpjvuSPw6Yvlnw=w1241-h931-s-no">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib404h&label=Profile%20views&color=0e75b6&style=flat" alt="rakib404h" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib404h&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib404H, Rakib, Rakib Hossain, rakibhp2, rakibhp11, Md Rakib Hossain, Rakib Hp" /> </p>
 
 - 🌱 I’m currently learning **CSS Framework, Core Js, React Js, Python & Front-end Engineering**
 
