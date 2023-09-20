@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CSS Framework, Core Js, React Js, Python & Front-end Engineering**
 
-- 📫 How to reach me **rakib404@gmail.com**
+- 📫 How to reach me **rakib404h@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
