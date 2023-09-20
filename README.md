@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib404h&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib404H, Rakib, Rakib Hossain, rakibhp2, rakibhp11, Md Rakib Hossain, Rakib Hp" /> </p>
 
-- 🌱 I’m currently learning **CSS Framework, Core Js, React Js, Python & Front-end Engineering**
+- 🌱 I’m currently learning **CSS Framework, React Js, Python & Front-end Engineering**
 
 - 📫 How to reach me **rakib404h@gmail.com**
 
