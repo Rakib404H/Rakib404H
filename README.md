@@ -3,10 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/Portfolio-rakibhossain.com-111827?style=for-the-badge&logo=safari&logoColor=67e8f9" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-rakib404h-111827?style=for-the-badge&logo=linkedin&logoColor=818cf8" alt="LinkedIn" /></a>
-  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/Email-rakib@rakibhossain.com-111827?style=for-the-badge&logo=gmail&logoColor=ec4899" alt="Email" /></a>
-  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/Medium-@rakib404h-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/rakibhossain.com-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/rakib@rakibhossain.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 ---
@@ -17,7 +20,7 @@ I'm a DevOps enthusiast from Dhaka, Bangladesh — someone who genuinely enjoys 
 
 I got into tech through web development (JavaScript, React), but quickly realized I'm way more excited about the infrastructure side of things. Now I spend most of my time learning cloud services, containerizing apps, and building CI/CD pipelines.
 
-Right now I'm going through the **Mastering AWS & DevOps** course on Poridhi.io, which has been great for getting hands-on with real AWS services and DevOps practices.
+Right now I'm going through the **Mastering AWS & DevOps** program on Poridhi.io, which has been really helpful for getting hands-on with real AWS services and DevOps practices.
 
 ---
 
@@ -164,13 +167,18 @@ Working on end-to-end CI/CD pipelines with Azure Pipelines and YAML configs.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
+
+Feel free to reach out — I'm always happy to chat about DevOps, cloud, or anything tech.
 
 <p align="center">
-  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/Portfolio-rakibhossain.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-rakib404h-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/Email-rakib@rakibhossain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/Medium-@rakib404h-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/🌐_Portfolio-rakibhossain.com-blue?style=flat-square" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/💼_LinkedIn-rakib404h-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/✉️_Email-rakib@rakibhossain.com-EA4335?style=flat-square" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/📝_Medium-@rakib404h-12100E?style=flat-square" alt="Medium" /></a>
 </p>
 
 ---
