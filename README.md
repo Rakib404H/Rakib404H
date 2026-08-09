@@ -160,9 +160,9 @@ Working on end-to-end CI/CD pipelines with Azure Pipelines and YAML configs.
 Feel free to reach out — I'm always happy to chat about DevOps, cloud, or anything tech.
 
 <p align="center">
-  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/🌐_Portfolio-rakibhossain.com-blue?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/rakibhossain.com-4285F4?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/💼_LinkedIn-rakib404h-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <code>📧 rakib@rakibhossain.com</code>
 </p>
