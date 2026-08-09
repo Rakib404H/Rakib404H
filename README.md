@@ -1,51 +1,47 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Rakib Hossain — Aspiring Cloud & DevOps Engineer" width="100%" />
+  <img src="assets/hero.svg" alt="Rakib Hossain" width="100%" />
 </div>
 
-<div align="center">
+<p align="center">
+  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/Portfolio-rakibhossain.com-111827?style=for-the-badge&logo=safari&logoColor=67e8f9" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-rakib404h-111827?style=for-the-badge&logo=linkedin&logoColor=818cf8" alt="LinkedIn" /></a>
+  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/Email-rakib@rakibhossain.com-111827?style=for-the-badge&logo=gmail&logoColor=ec4899" alt="Email" /></a>
+  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/Medium-@rakib404h-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rakibhossain.com-0a0a1a?style=for-the-badge&logo=safari&logoColor=67e8f9&labelColor=0a0a1a)](https://rakibhossain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rakib404h-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0a0a1a)](https://linkedin.com/in/rakib404h)
-[![Email](https://img.shields.io/badge/Email-rakib@rakibhossain.com-0a0a1a?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=0a0a1a)](mailto:rakib@rakibhossain.com)
-[![Medium](https://img.shields.io/badge/Medium-@rakib404h-0a0a1a?style=for-the-badge&logo=medium&logoColor=a78bfa&labelColor=0a0a1a)](https://medium.com/@rakib404h)
+---
 
-</div>
+## About Me
 
-<br/>
+I'm a DevOps enthusiast from Dhaka, Bangladesh — someone who genuinely enjoys setting up servers, automating workflows, and figuring out how things work under the hood.
 
-## `> whoami`
+I got into tech through web development (JavaScript, React), but quickly realized I'm way more excited about the infrastructure side of things. Now I spend most of my time learning cloud services, containerizing apps, and building CI/CD pipelines.
 
-**Aspiring Cloud & DevOps Engineer** building hands-on skills in cloud infrastructure with a developer-first mindset.
+Right now I'm going through the **Mastering AWS & DevOps** course on Poridhi.io, which has been great for getting hands-on with real AWS services and DevOps practices.
 
-I turned a retired Android phone into a fully functional Linux server — and never looked back. From bare-metal homelab setups to cloud CI/CD pipelines, I automate everything I can and document the rest. With a web development foundation in JavaScript and React, I bring both the dev and the ops to DevOps.
-
-<br/>
+---
 
 ## 📡 Currently Learning
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <a href="https://poridhi.io">
-        <img src="https://img.shields.io/badge/Poridhi.io-6366f1?style=for-the-badge&logoColor=white" alt="Poridhi" />
-      </a>
+    <td>
+      <img src="https://img.shields.io/badge/Poridhi.io-6366f1?style=for-the-badge&logoColor=white" alt="Poridhi" />
     </td>
     <td>
-      <strong>Mastering AWS & DevOps</strong> — <a href="https://poridhi.io">Poridhi.io</a><br/>
-      <sub>Hands-on, project-based training covering AWS core services (EC2, S3, VPC, IAM, RDS, Lambda), Infrastructure as Code with Terraform, container orchestration with Kubernetes, CI/CD pipeline design, and cloud-native architecture patterns.</sub>
+      <strong>Mastering AWS & DevOps</strong> — Poridhi.io<br/>
+      <sub>AWS core services (EC2, S3, VPC, IAM, RDS), Terraform, Kubernetes, CI/CD pipelines, and cloud-native architecture</sub>
     </td>
   </tr>
 </table>
 
-> 🎯 **Focus areas:** AWS cloud architecture · Terraform IaC · Kubernetes orchestration · Production-grade CI/CD · Observability & monitoring
+---
 
-<br/>
-
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td><strong>☁️ Cloud & IaC</strong></td>
+    <td><strong>☁️ Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -54,7 +50,7 @@ I turned a retired Android phone into a fully functional Linux server — and ne
     </td>
   </tr>
   <tr>
-    <td><strong>🐳 Containers & Orchestration</strong></td>
+    <td><strong>🐳 Containers</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -62,14 +58,14 @@ I turned a retired Android phone into a fully functional Linux server — and ne
     </td>
   </tr>
   <tr>
-    <td><strong>🔄 CI/CD & Automation</strong></td>
+    <td><strong>🔄 CI/CD</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" alt="Azure Pipelines" />
     </td>
   </tr>
   <tr>
-    <td><strong>🐧 OS & Scripting</strong></td>
+    <td><strong>🐧 Linux</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -78,7 +74,7 @@ I turned a retired Android phone into a fully functional Linux server — and ne
     </td>
   </tr>
   <tr>
-    <td><strong>💻 Development</strong></td>
+    <td><strong>💻 Dev</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -96,7 +92,7 @@ I turned a retired Android phone into a fully functional Linux server — and ne
     </td>
   </tr>
   <tr>
-    <td><strong>🔒 Networking</strong></td>
+    <td><strong>🔒 Network</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
       <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Tunnel" />
@@ -104,110 +100,97 @@ I turned a retired Android phone into a fully functional Linux server — and ne
   </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <details open>
-<summary><strong>🖥️ Personal Linux Homelab Server</strong></summary>
+<summary><strong>🖥️ Personal Homelab Server</strong></summary>
+<br/>
 
-> Repurposed a retired Android phone into a bare-metal Linux server running Docker containers, Nginx reverse proxy, self-hosted n8n automation, and Cloudflare Tunnel — all on a resource-constrained device.
+Set up a Linux server running Docker containers, Nginx reverse proxy, self-hosted n8n, and Cloudflare Tunnel for public access — mostly as a way to learn by doing.
 
-| Component | Details |
-|-----------|---------|
-| **OS** | PostmarketOS (Alpine Linux) — installed from bootloader unlock |
-| **Orchestration** | Docker Compose for multi-service management |
-| **Networking** | Cloudflare Tunnel (zero-trust) + Tailscale VPN mesh |
-| **Automation** | Cron jobs, log analysis, bash scripting |
+- Docker Compose for service management
+- Cloudflare Tunnel for zero-trust access (no port forwarding)
+- Tailscale VPN for remote management
+- Bash scripts and cron jobs for automation
 
 </details>
 
 <details open>
 <summary><strong>⚙️ Workflow Automation with n8n</strong></summary>
+<br/>
 
-> Designed and deployed automated workflows using self-hosted n8n, integrating APIs and services to eliminate manual tasks.
+Built automated workflows using self-hosted n8n to connect APIs and cut down on repetitive manual work.
 
-| Feature | Details |
-|---------|---------|
-| **Triggers** | Webhooks, scheduled jobs, conditional logic |
-| **Integrations** | Multi-service API orchestration |
-| **Approach** | CI/CD pipeline thinking applied to automation |
+- Webhook triggers and scheduled jobs
+- Multi-service API integrations
+- Thinking about automation the same way you'd think about a pipeline
 
 </details>
 
 <details open>
-<summary><strong>🔄 Azure CI/CD Pipelines</strong> <code>In Progress</code></summary>
+<summary><strong>🔄 Azure CI/CD Pipelines</strong> <code>WIP</code></summary>
+<br/>
 
-> Building end-to-end CI/CD pipelines using Azure Pipelines with YAML for automated build, test, and deployment workflows.
+Working on end-to-end CI/CD pipelines with Azure Pipelines and YAML configs.
 
-| Feature | Details |
-|---------|---------|
-| **Deployment** | Azure Web App |
-| **Storage** | Azure Blob Storage & SQL Database |
-| **Monitoring** | Azure Monitor & Application Insights |
+- Azure Web App deployment
+- Blob Storage & SQL Database provisioning
+- Monitoring with Azure Monitor & Application Insights
 
 </details>
 
-<br/>
+---
 
 ## 📌 Pinned Repos
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Rakib404H/30-Day-Activity-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib404H&repo=30-Day-Activity-Tracker&theme=tokyonight&hide_border=true" alt="30-Day-Activity-Tracker" />
+  </a>
+  <a href="https://github.com/Rakib404H/React-Coding-assignment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib404H&repo=React-Coding-assignment&theme=tokyonight&hide_border=true" alt="React-Coding-assignment" />
+  </a>
+</p>
 
-<a href="https://github.com/Rakib404H/30-Day-Activity-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib404H&repo=30-Day-Activity-Tracker&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=818cf8&icon_color=67e8f9&text_color=94a3b8" alt="30-Day-Activity-Tracker" />
-</a>
-<a href="https://github.com/Rakib404H/React-Coding-assignment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib404H&repo=React-Coding-assignment&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=818cf8&icon_color=67e8f9&text_color=94a3b8" alt="React-Coding-assignment" />
-</a>
+---
 
-</div>
+## 📊 Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib404H&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib404H&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib404H&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rakib404H&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=818cf8&icon_color=67e8f9&text_color=94a3b8&ring_color=6366f1" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib404H&hide_border=true&background=0a0a1a&ring=6366f1&fire=ec4899&currStreakLabel=67e8f9&sideLabels=818cf8&currStreakNum=c7d2fe&sideNums=c7d2fe&dates=475569&stroke=1e293b" width="48%" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib404H&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=818cf8&text_color=94a3b8" width="40%" alt="Top Languages" />
-
-</div>
-
-<br/>
+---
 
 ## 🎓 Education & Training
 
 | | Details |
 |---|---|
-| 🚀 **Training** | **Mastering AWS & DevOps** — [Poridhi.io](https://poridhi.io) *(Current)* |
+| 🚀 **Training** | **Mastering AWS & DevOps** — Poridhi.io *(Current)* |
 | 🎓 **Diploma** | Computer Technology — Khanjahan Ali College of Science & Technology |
 | 💼 **Internship** | Networking & Server Management — KUET |
 | 📚 **Training** | Complete Web Development — Programming Hero |
 
-<br/>
+---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rakibhossain.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://rakibhossain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rakib404h-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakib404h)
-[![Email](https://img.shields.io/badge/Email-rakib@rakibhossain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakib@rakibhossain.com)
-[![Medium](https://img.shields.io/badge/Medium-@rakib404h-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rakib404h)
-
-</div>
+<p align="center">
+  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/Portfolio-rakibhossain.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-rakib404h-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/Email-rakib@rakibhossain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/Medium-@rakib404h-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakib404H&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br/><br/>
-  <sub>⚡ Built with intention, automated with purpose</sub>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakib404H&style=flat-square&color=6366f1&label=profile+views" alt="Profile Views" />
+</p>
