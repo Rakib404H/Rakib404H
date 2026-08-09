@@ -143,28 +143,12 @@ Working on end-to-end CI/CD pipelines with Azure Pipelines and YAML configs.
 
 ---
 
-## 📌 Pinned Repos
-
-<p align="center">
-  <a href="https://github.com/Rakib404H/30-Day-Activity-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib404H&repo=30-Day-Activity-Tracker&theme=tokyonight&hide_border=true" alt="30-Day-Activity-Tracker" />
-  </a>
-  <a href="https://github.com/Rakib404H/React-Coding-assignment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib404H&repo=React-Coding-assignment&theme=tokyonight&hide_border=true" alt="React-Coding-assignment" />
-  </a>
-</p>
-
----
-
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakib404H&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib404H&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib404H&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  <a href="https://github.com/Rakib404H">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib404H&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
