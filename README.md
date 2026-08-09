@@ -3,13 +3,11 @@
 </div>
 
 <p align="center">
-  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/rakibhossain.com-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rakibhossain.com"><img src="https://img.shields.io/badge/rakibhossain.com-4285F4?style=flat&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/rakib@rakibhossain.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <img src="https://img.shields.io/badge/rakib@rakibhossain.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" title="rakib@rakibhossain.com" />
 </p>
 
 ---
@@ -146,24 +144,14 @@ Working on end-to-end CI/CD pipelines with Azure Pipelines and YAML configs.
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <a href="https://github.com/Rakib404H">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rakib404H&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ## 🎓 Education & Training
 
 | | Details |
 |---|---|
 | 🚀 **Training** | **Mastering AWS & DevOps** — Poridhi.io *(Current)* |
-| 🎓 **Diploma** | Computer Technology — Khanjahan Ali College of Science & Technology |
-| 💼 **Internship** | Networking & Server Management — KUET |
 | 📚 **Training** | Complete Web Development — Programming Hero |
+| 💼 **Internship** | Networking & Server Management — KUET |
+| 🎓 **Diploma** | Computer Technology — Khanjahan Ali College of Science & Technology |
 
 ---
 
@@ -176,9 +164,7 @@ Feel free to reach out — I'm always happy to chat about DevOps, cloud, or anyt
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rakib404h"><img src="https://img.shields.io/badge/💼_LinkedIn-rakib404h-0A66C2?style=flat-square" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/✉️_Email-rakib@rakibhossain.com-EA4335?style=flat-square" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@rakib404h"><img src="https://img.shields.io/badge/📝_Medium-@rakib404h-12100E?style=flat-square" alt="Medium" /></a>
+  <img src="https://img.shields.io/badge/✉️_Email-rakib@rakibhossain.com-EA4335?style=flat-square" alt="Email" title="rakib@rakibhossain.com" />
 </p>
 
 ---
