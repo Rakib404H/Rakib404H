@@ -9,6 +9,10 @@
   &nbsp;
   <a href="https://x.com/0xR404H" target="_blank"><img src="https://img.shields.io/badge/X-0xR404H-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   &nbsp;
+  <a href="https://facebook.com/Rakib404H" target="_blank"><img src="https://img.shields.io/badge/Facebook-Rakib404H-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  &nbsp;
+  <a href="https://instagram.com/rakib404h" target="_blank"><img src="https://img.shields.io/badge/Instagram-rakib404h-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  &nbsp;
   <a href="https://wa.me/0xRakib404H" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0xRakib404H-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   &nbsp;
   <a href="mailto:rakib@rakibhossain.com"><img src="https://img.shields.io/badge/Email-rakib@rakibhossain.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -173,6 +177,10 @@ Feel free to reach out — I'm always open to DevOps and Cloud Engineering conve
   <a href="https://linkedin.com/in/rakib404h" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rakib404h-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/0xR404H" target="_blank"><img src="https://img.shields.io/badge/X-0xR404H-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/Rakib404H" target="_blank"><img src="https://img.shields.io/badge/Facebook-Rakib404H-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/rakib404h" target="_blank"><img src="https://img.shields.io/badge/Instagram-rakib404h-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   &nbsp;&nbsp;
   <a href="https://wa.me/0xRakib404H" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0xRakib404H-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   &nbsp;&nbsp;
